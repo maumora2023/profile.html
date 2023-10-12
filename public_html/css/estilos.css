@@ -1,0 +1,84 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 10-10-2023, 17:33:22
+    Author     : Maumora
+*/
+
+
+body {
+    text-align: center; 
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+}
+
+#perfil {
+    margin: 0px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: white;   
+}
+
+#perfil img {
+    width: 200px;
+    border-radius: 10%;       
+}
+
+#perfil h1 {
+    color: #333;
+    font-size: 50px;
+}
+
+#perfil p {
+    color: black;                       
+    font-size: 16px;
+}
+
+#perfil h3 {
+    color: white;                     
+    font-size: 20px;
+}
+
+#perfil ol {
+    list-style-type: decimal;
+    margin-left: 0px;                  
+    color: #333;
+    font-size: 16px;
+}
+
+a {
+    color: #3498db;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+a:hover {
+    color: #2980b9;
+}
+
+footer {
+    background-color:black;
+    margin-top: auto;
+  
+}
+header{
+  background-color:black;  
+}
+ul{
+    display: grid;
+    place-items: center;
+}
+h4{
+    width: 1903px;
+    margin: 0px;
+}
+ul{
+   width: 1800px;
+    margin: 0px;  
+}
+html{
+    height: 100%;
+}
